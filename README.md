@@ -40,32 +40,28 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+
+---
+
 ## 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=aashikaadh&show_icons=true&theme=dark" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aashikaadh&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-## 📈 Most Used Languages
+## 💻 Most Used Languages
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashikaadh&layout=compact&theme=dark" alt="Most Used Languages" />
-</p>
-
-## 🔥 Contribution Streak
-
-<p>
-<img src="https://streak-stats.demolab.com/?user=aashikaadh&theme=dark" alt="Contribution Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashikaadh&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=aashikaadh&theme=darkhub&row=1" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aashikaadh&theme=darkhub&row=1" alt="GitHub Trophies" />
 </p>
-
----
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+  ✨ Thanks for visiting my profile! ✨
 </p>
+
