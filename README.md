@@ -10,7 +10,7 @@
 
 - 🎓 I am a BCA student.
 - 💻 Interested in Web Development and Software Development.
-- 🌱 Currently learning HTML, CSS, JavaScript and PHP.
+- 🌱 Currently learning HTML, CSS, JavaScript,Python,Java and PHP.
 - 📚 Project: Web-Based Bookstore Management System.
 - 🎯 Goal: To become a skilled software developer.
 
