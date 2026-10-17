@@ -1,34 +1,27 @@
 
-<h1 align="center">Hi 👋, I'm Aashika Adhikari</h1>
-<h3 align="center">BCA Student | Aspiring Web Developer</h3>
+<div align="center">
 
-<p align="center">
-  🌱 Keep Learning, Keep Growing! 🌱
-</p>
+# 👋 Hi, I'm Aashika Adhikari
+
+### BCA Student | Aspiring Web Developer
+
+*Keep Learning, Keep Growing! 🌱*
+
+[![GitHub](https://img.shields.io/badge/GitHub-aashikaadh-181717?style=for-the-badge&logo=github)](https://github.com/aashikaadh)
+
+</div>
+
+---
 
 ## 👩‍💻 About Me
 
-- 🎓 I am a BCA student.
+- 🎓 BCA student passionate about technology.
 - 💻 Interested in Web Development and Software Development.
-- 🌱 Currently learning HTML, CSS, JavaScript, Python and PHP.
-- 📚 Project: Web-Based Bookstore Management System.
-- 🎯 Goal: To become a skilled software developer.
+- 🌱 Currently learning and improving my programming skills.
+- 📚 Working on a Web-Based Bookstore Management System.
+- 🎯 Looking for opportunities to learn, collaborate, and grow as a developer.
 
-## 🌐 Socials
-
-<p>
-<a href="https://github.com/aashikaadh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-</p>
-
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -40,28 +33,51 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+## 🚀 Featured Project
 
----
+### 📚 Web-Based Bookstore Management System
 
-## 📊 GitHub Stats
+A web application for browsing books and managing bookstore operations.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashikaadh&show_icons=true&theme=dark" alt="GitHub Stats" />
+**Technologies:** HTML, CSS, JavaScript, PHP, MySQL
+
+🔗 [View my GitHub repositories](https://github.com/aashikaadh?tab=repositories)
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://github.com/aashikaadh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/
+aashika-adhikari-944707432
+">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 </p>
 
-## 💻 Most Used Languages
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashikaadh&layout=compact&theme=dark" alt="Most Used Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aashikaadh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashikaadh&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aashikaadh&theme=darkhub&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=aashikaadh&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  ✨ Thanks for visiting my profile! ✨
-</p>
+---
 
+<div align="center">
+
+### ✨ Thanks for visiting my profile!
+
+*Always learning. Always building. Always improving.*
+
+</div>
