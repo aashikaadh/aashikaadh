@@ -88,7 +88,7 @@ A web application project focused on managing bookstore operations.
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aashikaadh&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+ <img src="https://streak-stats.demolab.com/?user=aashikaadh&theme=dark" alt="Contribution Streak" />
 </p>
 
 ---
