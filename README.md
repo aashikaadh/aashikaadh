@@ -69,7 +69,7 @@ A web application project focused on managing bookstore operations.
 **Technologies:** HTML, CSS, JavaScript, PHP, MySQL
 <!-- Replace YOUR_REPOSITORY_NAME with your actual project repository name. -->
 <p>
-  <a href="">
+  <a href="https://github.com/aashikaadh/Web-Based-Bookstore-Management-System">
     <img src="https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
   </a>
 </p>
@@ -93,11 +93,6 @@ A web application project focused on managing bookstore operations.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aashikaadh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
-</p>
 
 ---
 
