@@ -28,7 +28,9 @@
   <a href="https://github.com/aashikaadh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/
+aashika-adhikari-944707432
+" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/" target="_blank">
@@ -65,12 +67,9 @@ A web application project focused on managing bookstore operations.
 - 💻 Web-based interface
 
 **Technologies:** HTML, CSS, JavaScript, PHP, MySQL
-
-> Update the project description and technologies to match your actual implementation.
-
 <!-- Replace YOUR_REPOSITORY_NAME with your actual project repository name. -->
 <p>
-  <a href="https://github.com/aashikaadh">
+  <a href="">
     <img src="https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
   </a>
 </p>
