@@ -85,26 +85,28 @@ A web application project focused on managing bookstore operations.
 ---
 
 
+
 ## 📊 GitHub Stats
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="middle">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=aashikaadh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
+        src="https://github-readme-stats.vercel.app/api?username=aashikaadh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide_title=false"
         alt="GitHub Stats"
-        width="100%"
+        width="450"
       />
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="middle">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashikaadh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashikaadh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=450"
         alt="Most Used Languages"
-        width="100%"
+        width="450"
       />
     </td>
   </tr>
 </table>
+
 
 ---
 
