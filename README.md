@@ -28,9 +28,7 @@
   <a href="https://github.com/aashikaadh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/
-aashika-adhikari-944707432
-" target="_blank">
+  <a href="https://www.linkedin.com/in/aashika-adhikari-944707432" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/" target="_blank">
@@ -86,26 +84,28 @@ A web application project focused on managing bookstore operations.
 
 
 
+
 ## 📊 GitHub Stats
 
 <table>
   <tr>
     <td width="50%" align="center" valign="middle">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=aashikaadh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide_title=false"
+        src="https://github-stats-extended.vercel.app/api?username=aashikaadh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
         alt="GitHub Stats"
-        width="450"
+        width="100%"
       />
     </td>
     <td width="50%" align="center" valign="middle">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashikaadh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=450"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=aashikaadh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=450&cache_seconds=86400"
         alt="Most Used Languages"
-        width="450"
+        width="100%"
       />
     </td>
   </tr>
 </table>
+
 
 
 ---
