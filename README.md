@@ -82,9 +82,6 @@ A web application project focused on managing bookstore operations.
 
 ---
 
-
-
-
 ## 📊 GitHub Stats
 
 <table>
