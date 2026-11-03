@@ -1,5 +1,5 @@
 
-name: Update Contribution Streak
+name: Update GitHub Profile Cards
 
 on:
   schedule:
@@ -17,23 +17,39 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Generate streak card
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github
+          path: profile/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Most Used Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=tokyonight&hide_border=true
+          path: profile/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Contribution Streak
         uses: zients/github-readme-streak-stats@v2
         with:
           options: user=${{ github.repository_owner }}&theme=tokyonight&disable_animations=true
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit streak card
+      - name: Commit all profile cards
         run: |
-          git add profile/streak.svg
-
-          if git diff --cached --quiet; then
-            echo "No changes to streak card."
-            exit 0
-          fi
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update contribution streak"
-          git push
+
+          git add profile/*.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to profile cards."
+          else
+            git commit -m "Update GitHub profile cards"
+            git push
+          fi
